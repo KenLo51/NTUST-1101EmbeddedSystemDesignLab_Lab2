@@ -18,4 +18,4 @@ NTUST 110-1-溫進坤-嵌入式系統設計實習 Lab2(打磚塊遊戲)
 
 ##### 使用環境：
 >  1. STM32CubeMX Version 6.4.0
->  1. µVision V5.36.0.0
+>  2. µVision V5.36.0.0
