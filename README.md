@@ -1,5 +1,4 @@
-# NTUST-1101EmbeddedSystemDesignLab_Lab2
-NTUST 110-1-溫進坤-嵌入式系統設計實習 Lab2(打磚塊遊戲)
+# Breakout Game With Simple Physical Simulation and Collision Detect on STM32
 
 ##### 作業題目：
 >  1. 按下USR鍵後，遊戲開始。
