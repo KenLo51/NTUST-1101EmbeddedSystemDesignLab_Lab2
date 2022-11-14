@@ -1,6 +1,6 @@
 # Breakout Game With Simple Physical Simulation and Collision on STM32
 
-##### 作業題目：
+##### 基本功能：
 >  1. 按下USR鍵後，遊戲開始。
 >  2. 發球時需使用隨機方式產生四個斜角的發球角度，發球位置為螢幕中心。
 >  3. 球的移動速度為10ms，移動1個X/Y pixel
