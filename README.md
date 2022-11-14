@@ -1,4 +1,4 @@
-# Breakout Game With Simple Physical Simulation and Collision Detect on STM32
+# Breakout Game With Simple Physical Simulation and Collision on STM32
 
 ##### 作業題目：
 >  1. 按下USR鍵後，遊戲開始。
