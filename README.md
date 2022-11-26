@@ -1,6 +1,6 @@
 # Breakout Game With Simple Physical Simulation and Collision on STM32
 
-於STM32F746G-DISCO上實現基本2D及時物理模擬，製作Breakout(打磚塊)遊戲。
+於STM32F746G-DISCO上實現基本2D即時物理模擬，製作Breakout(打磚塊)遊戲。
 
 ##### 基本功能：
 >  1. 按下USR鍵後，遊戲開始。
